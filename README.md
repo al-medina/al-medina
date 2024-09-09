@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Alejandro Medina! 👋
+I'm a software engineer passionate about software engineering and machine learning. I love working with Python, C++, and Rust, and I always want to learn new things and take on exciting projects.
 
-<!--
-**al-medina/al-medina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Skills & Tools
+- **Languages**: Python, C++, Rust, Java, SQL
+- **Frameworks**: scikit-learn, TensorFlow, PyTorch
+- **Tools**: Git, Jenkins, AWS, DBT, 
 
-Here are some ideas to get you started:
+## 🌟 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Contact Me
+- Email: alejandro.mdina98@gmail.com
